@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Test User",
+        "email": "test.android@example.com",
+        "phone": "01000000000",
+        "device_id": "android-device-123",
+        "status": "pending",
+        "request_date": "2025-12-07 09:13:19.291877"
+    }
+]
